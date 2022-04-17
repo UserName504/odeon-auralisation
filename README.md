@@ -9,3 +9,8 @@ Exterior:
 Interior:
 
 ![](images/interior.png)
+
+Source and receiver positions:
+
+![](images/positions_01.png)
+![](images/positions_02.png)
