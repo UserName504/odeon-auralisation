@@ -1,3 +1,7 @@
 # odeon-auralisation
 
-Coming soon.
+Virtual auralisation in Odeon.
+
+Exterior:
+
+![](images/exterior.png
