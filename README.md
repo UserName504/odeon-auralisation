@@ -13,7 +13,3 @@ Exterior:                  |  Interior:
 Source and receiver positions: | Source and receiver positions:
 :-----------------------------:|:----------------------------:
 ![](images/positions_01.jpg)   | ![](images/positions_02.jpg)
-
-![](images/positions_01.jpg)
-
-![](images/positions_02.jpg)
