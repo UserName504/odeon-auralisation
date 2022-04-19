@@ -10,7 +10,7 @@ Exterior:                  |  Interior:
 :-------------------------:|:-------------------------:
 ![](images/exterior.png)   |  ![](images/interior.png)
 
-Source and receiver positions: |
+Source and receiver positions: | Source and receiver positions:
 :-----------------------------:|:----------------------------:
 ![](images/positions_01.jpg)   | ![](images/positions_02.jpg)
 
