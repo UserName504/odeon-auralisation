@@ -2,13 +2,13 @@
 
 Simulated impulse response measurements of a virtual CAD model (made in SketchUp) in [Odeon](https://odeon.dk/).
 
-Input audio:
-
-Auralisation:
-
 Exterior:                  |  Interior:
 :-------------------------:|:-------------------------:
 ![](images/exterior.png)   |  ![](images/interior.png)
+
+Input audio:
+
+Auralisation:
 
 Source and receiver positions: | Source and receiver positions:
 :-----------------------------:|:----------------------------:
