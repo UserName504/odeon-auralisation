@@ -6,19 +6,13 @@ Input audio:
 
 Auralisation:
 
-Exterior:
-
-![](images/exterior.png)
-
-Interior:
-
-![](images/interior.png)
-
 Exterior:                  |  Interior:
 :-------------------------:|:-------------------------:
 ![](images/exterior.png)   |  ![](images/interior.png)
 
 Source and receiver positions:
+:---------------------------:|:----------------------------:
+![](images/positions_01.jpg) | ![](images/positions_02.jpg)
 
 ![](images/positions_01.jpg)
 
