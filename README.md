@@ -14,6 +14,11 @@ Source and receiver positions: | Source and receiver positions:
 
 # Data:
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
