@@ -14,6 +14,11 @@ Source and receiver positions: | Source and receiver positions:
 
 #Data:
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 Source 1. receiver 3:
 
      | 63Hz   | 125Hz  | 250Hz  | 500Hz  | 1000Hz | 2000Hz | 4000Hz | 8000Hz
